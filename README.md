@@ -84,12 +84,12 @@ Olá 👋 Meu nome é Lucas Frade
 	<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
 </p>
 
-<b>GitHub Stats</b>
-
-<div align="center">
-	<a href="http://www.github.com/Rysgothal"><img src="https://github-readme-stats.vercel.app/api?username=Rysgothal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rysgothal's GitHub stats" /></a>
-	<a href="https://github.com/Rysgothal"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rysgothal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
+<a href="https://app.daily.dev/lucasfrade">
+	<img src="https://api.daily.dev/devcards/v2/5OoGT2TAnOm6mlawVDN2z.png?type=wide&r=06i" width="652" alt="Lucas Frade's Dev Card"/>
+</a>
+<a href="http://www.github.com/Rysgothal">
+	<img src="https://github-readme-stats.vercel.app/api?username=Rysgothal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rysgothal's GitHub stats" />
+</a>
 
 
 ## Entre em contato! ✉️

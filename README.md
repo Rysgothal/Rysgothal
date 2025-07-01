@@ -85,7 +85,7 @@ Olá 👋 Meu nome é Lucas Frade
 </p>
 
 <a href="https://app.daily.dev/lucasfrade">
-	<img src="https://api.daily.dev/devcards/v2/5OoGT2TAnOm6mlawVDN2z.png?type=wide&r=06i" width="652" alt="Lucas Frade's Dev Card"/>
+	<img src="https://api.daily.dev/devcards/v2/5OoGT2TAnOm6mlawVDN2z.png?type=wide&r=v8r" width="652" alt="Lucas Frade's Dev Card"/>
 </a>
 <a href="http://www.github.com/Rysgothal">
 	<img src="https://github-readme-stats.vercel.app/api?username=Rysgothal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rysgothal's GitHub stats" />

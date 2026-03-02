@@ -4,7 +4,7 @@ Olá 👋 Meu nome é Lucas Frade
 
 * 🌍  Atualmente estou em Campo Grande - MS, Brasil
 * ✉️  Você consegue me chamar em [dev.lucasfrade@gmail.com](mailto:dev.lucasfrade@gmail.com)
-* 🚀  Atualmente estou trabalhando em [Ganso Sistemas](https://ganso.com.br/) como **Dev. Desktop Jr. - Delphi**
+* 🚀  Atualmente estou trabalhando em [Eficaz Sistemas](https://eficazsistemas.com.br/) como **Dev. Desktop Jr. - Delphi**
 * 🧠  Atualmente estou estudando ![Flutter](https://img.shields.io/badge/-Flutter-02569B?&logo=flutter&logoColor=FFFFFF)
 * 🤝  Estou disposto para colaborar em projetos.
 

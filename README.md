@@ -1,99 +1,173 @@
-Olá 👋 Meu nome é Lucas Frade
-===============================
+<div align="center">
 
+# 👾 Lucas Frade
+### `< Dev Desktop Jr. · Full Stack Explorer · Lifelong Learner />`
 
-* 🌍  Atualmente estou em Campo Grande - MS, Brasil
-* ✉️  Você consegue me chamar em [dev.lucasfrade@gmail.com](mailto:dev.lucasfrade@gmail.com)
-* 🚀  Atualmente estou trabalhando em [Eficaz Sistemas](https://eficazsistemas.com.br/) como **Dev. Desktop Jr. - Delphi**
-* 🧠  Atualmente estou estudando ![Flutter](https://img.shields.io/badge/-Flutter-02569B?&logo=flutter&logoColor=FFFFFF)
-* 🤝  Estou disposto para colaborar em projetos.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Desenvolvedor+Delphi+%40+Eficaz+Sistemas;Apaixonado+por+tecnologia+e+c%C3%B3digo;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-
-## ⚡ Habilidades:
-#### - Linguagens: 
-<p align="left">
-	<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-	<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-	<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-	<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/-lucas-frade/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dev.lucasfrade@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/original_frade/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/Rysgothal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-#### - Editores de Texto / IDE:
-<p align="left">
-	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-	<a href="https://www.embarcadero.com/products/delphi" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373548/delphi.svg" width="36" height="36" alt="Delphi" /></a>
-	<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354237/pycharm.svg" width="36" height="36" alt="PyCharm" /></a>
-	<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354555/webstorm.svg" width="36" height="36" alt="WebStorm" /></a>
-	<a href="http://www.codeblocks.org/" target="_blank" rel="noreferrer"><img src="https://www.codeblocks.org/images/logo160.png" width="36" height="36" alt="CodeBlocks" /></a>
-	<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="36" height="36" alt="Sublime Text" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Rysgothal&label=Visualizações+do+Perfil&color=0891b2&style=flat-square" alt="profile views" />
 
-#### - Front-End:
-<p align="left">
-	<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-	<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-	<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-	<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-	<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-	<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
-	<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-	<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-	<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-	<a href="https://www.primefaces.org/" target="_blank" rel="noreferrer"><img src="https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png" width="70" height="36" alt="PrimeFaces" /></a>
-	<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
+</div>
 
-#### - Back-End e Databases:
-<p align="left">
-	<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-	<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-	<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-	<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-	<a href="https://firebirdsql.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/443058/brand-firebird.svg" width="36" height="36" alt="Firebird" /></a>
-	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-	<a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374094/sqlite.svg" width="36" height="36" alt="SQLite" /></a>
-</p>
+---
 
-#### - Softwares
-<p align="left">
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-	<a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.4f77d4469282877eb83057f09f3bf6fe?rik=j98pDhXzCZ8jyw&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fen%2fthumb%2f6%2f66%2fClip_Studio_Paint_app_logo.png%2f120px-Clip_Studio_Paint_app_logo.png&ehk=kLA1RlikkJwYZrrz6SHSSYBH6LWtYYGEA2ghhdMv3hQ%3d&risl=&pid=ImgRaw&r=0" width="36" height="36" alt="CLIP STUDIO PAINT" /></a>
-	<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" /></a>
-</p>
+## 🧑‍💻 Sobre mim
 
-#### - Cloud
-<p align="left">
-	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-</p>
+```typescript
+const lucas = {
+  name:          "Lucas Frade",
+  alias:         "Rysgothal",
+  location:      "Campo Grande, MS - BR",
+  work:          "Dev. Desktop Jr. @ Eficaz Sistemas",
+  stack:         ["Delphi", "TypeScript", "React", "Python"],
+  learning:      ["Flutter", "Go"],
+  fav_lang:      ["Go", "Delphi", "Flutter"],
+  act_fav_music: "🎧 Milionário & José Rico — Vontade Dividida",
+  open_for:      "Colaborações, projetos open source e novos desafios!"
+};
+```
 
-#### - Ferramentas: 
-<p align="left">
-	<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-	<a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="36" height="36" alt="Windows" /></a>
-	<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
-</p>
+---
 
-<a href="https://app.daily.dev/lucasfrade">
-	<img src="https://api.daily.dev/devcards/v2/5OoGT2TAnOm6mlawVDN2z.png?type=wide&r=v8r" width="652" alt="Lucas Frade's Dev Card"/>
-</a>
-<a href="http://www.github.com/Rysgothal">
-	<img src="https://github-readme-stats.vercel.app/api?username=Rysgothal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rysgothal's GitHub stats" />
-</a>
+## 🚀 Stack & Tecnologias
 
+<details open>
+<summary><strong>🖥️ Linguagens</strong></summary>
+<br>
 
-## Entre em contato! ✉️
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Pascal/Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/-lucas-frade)](https://www.linkedin.com/in/-lucas-frade/)
- [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.lucasfrade@gmail.com)](mailto:dev.lucasfrade@gmail.com)
- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/original_frade/)
+</details>
+
+<details open>
+<summary><strong>🎨 Front-End</strong></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>⚙️ Back-End & Databases</strong></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>🛠️ Ferramentas & IDEs</strong></summary>
+<br>
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+</details>
+
+---
+
+## 📌 Projetos em Destaque
+
+<div align="center">
+
+| Projeto | Descrição | Tecnologia |
+|--------|-----------|-----------|
+| [🧠 Aprendizagem_Profunda](https://github.com/Rysgothal/Aprendizagem_Profunda) | Deep Learning com 3 arquiteturas e variação de hiperparâmetros | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) |
+| [🔍 Busca_KMP](https://github.com/Rysgothal/Busca_KMP) | Busca de padrões em sequências de DNA com algoritmo KMP | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) |
+| [📖 Design_Patterns](https://github.com/Rysgothal/Design_Patterns) | Estudo sobre Padrões de Projeto em Pascal/Delphi | ![Pascal](https://img.shields.io/badge/-Pascal-E62431?logo=delphi&logoColor=white&style=flat) |
+| [🗣️ Gerador_GLC](https://github.com/Rysgothal/Gerador_GLC) | Gerador de frases aleatórias via Gramática Livre de Contexto | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) |
+| [⚖️ Calculo_IMC](https://github.com/Rysgothal/Calculo_IMC) | Calculadora de IMC desenvolvida em Pascal | ![Pascal](https://img.shields.io/badge/-Pascal-E62431?logo=delphi&logoColor=white&style=flat) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rysgothal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rysgothal&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rysgothal&theme=dark&hide_border=true&stroke=0891b2&ring=0891b2&fire=ff6b35&currStreakLabel=0891b2&background=1c1917)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎵 Atualmente ouvindo bastante
+
+> 🎧 **Milionário & José Rico** — *Vontade Dividida*
+>
+> *"Music is the shorthand of emotion."*
+
+---
+
+## 📬 Bora trocar uma ideia?
+
+<div align="center">
+
+Estou sempre aberto a colaborações, projetos interessantes e novas conexões.
+Não hesite em me chamar! 👇
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-lucas-frade/)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.lucasfrade@gmail.com)
+
+---
+
+<sub>⚡ Feito com 💙 e muito Monster por <strong>Lucas Frade</strong> — Campo Grande, MS 🇧🇷</sub>
+
+</div>

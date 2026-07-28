@@ -150,7 +150,7 @@ const lucas = {
 
 ## 🎵 Atualmente ouvindo bastante
 
-> 🎧 **Milionário & José Rico** — *Vontade Dividida*
+> 🎧 **Milionário & José Rico** <*Vontade Dividida*>
 >
 > *"Music is the shorthand of emotion."*
 
@@ -168,6 +168,6 @@ Não hesite em me chamar! 👇
 
 ---
 
-<sub>⚡ Feito com 💙 e muito Monster por <strong>Lucas Frade</strong> — Campo Grande, MS 🇧🇷</sub>
+<sub>⚡ Feito com 💙 e muito Açucar por <strong>Lucas Frade</strong> • Campo Grande, MS 🇧🇷</sub>
 
 </div>
